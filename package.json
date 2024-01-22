@@ -1,0 +1,25 @@
+{
+    "name": "node-vehicle-command",
+    "version": "0.0.1",
+    "description": "NodeJS library for Tesla Vehicle Command signing.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Teslemetry/node-vehicle-command.git"
+    },
+    "keywords": [
+        "Tesla"
+    ],
+    "author": "admin@teslemetry.com",
+    "license": "Apache-2.0",
+    "bugs": {
+        "url": "https://github.com/Teslemetry/node-vehicle-command/issues"
+    },
+    "homepage": "https://github.com/Teslemetry/node-vehicle-command#readme",
+    "dependencies": {
+        "google-protobuf": "^3.21.2"
+    }
+}
